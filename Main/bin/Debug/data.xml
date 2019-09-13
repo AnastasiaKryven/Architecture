@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Controller xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Types>
+    <Type>
+      <NumbOfCurrency>1</NumbOfCurrency>
+      <NameOfCurrency>ewvdf</NameOfCurrency>
+      <ShortNameOfCurrency>sceds</ShortNameOfCurrency>
+    </Type>
+  </Types>
+  <Logs>
+    <Log Date="2019-05-11T20:05:41.3451719+03:00" MFO="143938" NumbOfCurrency="1" BuyCurrency="0" SaleCurrency="0" />
+  </Logs>
+  <Banks>
+    <Bank>
+      <MFO>143938</MFO>
+      <BankName>апрол</BankName>
+      <BankType>Национальный</BankType>
+      <Adress>сыцу</Adress>
+      <NumberPhone>1234567890</NumberPhone>
+    </Bank>
+  </Banks>
+</Controller>
